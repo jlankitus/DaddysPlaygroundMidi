@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ColorSuite" t="Include">
+          <e p="ColorSuite.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="ColorSuiteEditor.cs" t="Include" />
+          </e>
+          <e p="Shader" t="Include">
+            <e p="ColorSuite.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Editor" t="Include">
+          <e p="PackageTool.cs" t="Include" />
+        </e>
+        <e p="GearProcedural" t="Include">
+          <e p="Editor" t="Include">
+            <e p="GearInspector.cs" t="Include" />
+          </e>
+          <e p="GearDriver" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GearDriverEditor.cs" t="Include" />
+            </e>
+            <e p="GearDriver.cs" t="Include" />
+          </e>
+          <e p="ProceduralGear.cs" t="Include" />
+          <e p="ProceduralWormGear" t="Include">
+            <e p="Editor" t="Include">
+              <e p="WormGearInspector.cs" t="Include" />
+            </e>
+            <e p="ProceduralWormGear.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Kino" t="Include">
+          <e p="Datamosh" t="Include">
+            <e p="Datamosh.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="DatamoshEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="Datamosh.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Kino Imported" t="Include">
+          <e p="Obscurance" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ObscuranceEditor.cs" t="Include" />
+            </e>
+            <e p="Obscurance.cs" t="Include" />
+            <e p="Script" t="Include">
+              <e p="PropertyObserver.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="Obscurance.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Vignette" t="Include">
+            <e p="Editor" t="Include">
+              <e p="VignetteEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="Vignette.shader" t="Include" />
+            </e>
+            <e p="Vignette.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Klak" t="Include">
+          <e p="Midi" t="Include">
+            <e p="Editor" t="Include">
+              <e p="KnobInputEditor.cs" t="Include" />
+              <e p="NoteInputEditor.cs" t="Include" />
+            </e>
+            <e p="KnobInput.cs" t="Include" />
+            <e p="NoteInput.cs" t="Include" />
+          </e>
+          <e p="Syphon" t="Include">
+            <e p="Editor" t="Include">
+              <e p="SyphonClientEditor.cs" t="Include" />
+              <e p="SyphonServerEditor.cs" t="Include" />
+              <e p="SyphonServerListWindow.cs" t="Include" />
+            </e>
+            <e p="Internal" t="Include">
+              <e p="Resources" t="Include">
+                <e p="Blit.shader" t="Include" />
+              </e>
+              <e p="SyphonCommon.cs" t="Include" />
+            </e>
+            <e p="Runtime" t="Include">
+              <e p="SyphonClient.cs" t="Include" />
+              <e p="SyphonServer.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Klak Imported" t="Include">
+          <e p="Editor" t="Include">
+            <e p="GUIHelper.cs" t="Include" />
+            <e p="ImageSequenceWindow.cs" t="Include" />
+          </e>
+          <e p="Extension" t="Include">
+            <e p="MaterialExtension.cs" t="Include" />
+            <e p="VectorMathExtension.cs" t="Include" />
+          </e>
+          <e p="Math" t="Include">
+            <e p="BasicMath.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="InterpolatorConfigDrawer.cs" t="Include" />
+            </e>
+            <e p="Interpolator.cs" t="Include" />
+            <e p="NoiseGenerator.cs" t="Include" />
+            <e p="Perlin.cs" t="Include" />
+            <e p="Tween.cs" t="Include" />
+            <e p="XXHash.cs" t="Include" />
+          </e>
+          <e p="Motion" t="Include">
+            <e p="BrownianMotion.cs" t="Include" />
+            <e p="ConstantMotion.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="BrownianMotionEditor.cs" t="Include" />
+              <e p="ConstantMotionEditor.cs" t="Include" />
+              <e p="SmoothFollowEditor.cs" t="Include" />
+            </e>
+            <e p="SmoothFollow.cs" t="Include" />
+          </e>
+          <e p="System" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GlobalConfigEditor.cs" t="Include" />
+            </e>
+            <e p="GlobalConfig.cs" t="Include" />
+          </e>
+          <e p="Wiring" t="Include">
+            <e p="Basic" t="Include">
+              <e p="AxisRotation.cs" t="Include" />
+              <e p="ColorRamp.cs" t="Include" />
+              <e p="EulerRotation.cs" t="Include" />
+              <e p="FloatAnimation.cs" t="Include" />
+              <e p="FromToVector.cs" t="Include" />
+              <e p="Vector.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="Basic" t="Include">
+                <e p="AxisRotationEditor.cs" t="Include" />
+                <e p="ColorRampEditor.cs" t="Include" />
+                <e p="EulerRotationEditor.cs" t="Include" />
+                <e p="FloatAnimationEditor.cs" t="Include" />
+                <e p="FromToVectorEditor.cs" t="Include" />
+                <e p="VectorEditor.cs" t="Include" />
+              </e>
+              <e p="Filter" t="Include">
+                <e p="DelayEditor.cs" t="Include" />
+                <e p="FloatFilterEditor.cs" t="Include" />
+                <e p="FloatMixerEditor.cs" t="Include" />
+                <e p="FloatVectorMixerEditor.cs" t="Include" />
+                <e p="QuaternionMixerEditor.cs" t="Include" />
+                <e p="RepeatEditor.cs" t="Include" />
+                <e p="ThresholdEditor.cs" t="Include" />
+                <e p="ToggleEditor.cs" t="Include" />
+                <e p="ToggleFourEditor.cs" t="Include" />
+                <e p="VectorMixerEditor.cs" t="Include" />
+              </e>
+              <e p="Input" t="Include">
+                <e p="AxisInputEditor.cs" t="Include" />
+                <e p="ButtonInputEditor.cs" t="Include" />
+                <e p="KeyInputEditor.cs" t="Include" />
+                <e p="MouseButtonInputEditor.cs" t="Include" />
+                <e p="MousePositionInputEditor.cs" t="Include" />
+                <e p="NoiseEditor.cs" t="Include" />
+                <e p="StarterEditor.cs" t="Include" />
+              </e>
+              <e p="Output" t="Include">
+                <e p="ActiveStatusOutEditor.cs" t="Include" />
+                <e p="AnimatorOutEditor.cs" t="Include" />
+                <e p="ColorOutEditor.cs" t="Include" />
+                <e p="EventOutEditor.cs" t="Include" />
+                <e p="FloatOutEditor.cs" t="Include" />
+                <e p="MaterialColorOutEditor.cs" t="Include" />
+                <e p="MaterialFloatOutEditor.cs" t="Include" />
+                <e p="MaterialVectorOutEditor.cs" t="Include" />
+                <e p="ParticleSystemOutEditor.cs" t="Include" />
+                <e p="RotationOutEditor.cs" t="Include" />
+                <e p="SystemPropertyOutEditor.cs" t="Include" />
+                <e p="TransformOutEditor.cs" t="Include" />
+                <e p="VectorOutEditor.cs" t="Include" />
+              </e>
+              <e p="Patcher" t="Include">
+                <e p="EditorUtility.cs" t="Include" />
+                <e p="FeedbackQueue.cs" t="Include" />
+                <e p="GUIStyles.cs" t="Include" />
+                <e p="Inlet.cs" t="Include" />
+                <e p="LinkUtility.cs" t="Include" />
+                <e p="Node.cs" t="Include" />
+                <e p="NodeFactory.cs" t="Include" />
+                <e p="NodeLink.cs" t="Include" />
+                <e p="Outlet.cs" t="Include" />
+                <e p="Patch.cs" t="Include" />
+                <e p="PatcherWindow.cs" t="Include" />
+                <e p="PatchManager.cs" t="Include" />
+              </e>
+              <e p="System" t="Include">
+                <e p="PatchEditor.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Filter" t="Include">
+              <e p="Delay.cs" t="Include" />
+              <e p="FloatFilter.cs" t="Include" />
+              <e p="FloatMix.cs" t="Include" />
+              <e p="FloatVectorMix.cs" t="Include" />
+              <e p="Repeat.cs" t="Include" />
+              <e p="RotationMix.cs" t="Include" />
+              <e p="Threshold.cs" t="Include" />
+              <e p="Toggle.cs" t="Include" />
+              <e p="ToggleFour.cs" t="Include" />
+              <e p="VectorMix.cs" t="Include" />
+            </e>
+            <e p="Input" t="Include">
+              <e p="AxisInput.cs" t="Include" />
+              <e p="ButtonInput.cs" t="Include" />
+              <e p="KeyInput.cs" t="Include" />
+              <e p="MouseButtonInput.cs" t="Include" />
+              <e p="MousePositionInput.cs" t="Include" />
+              <e p="Noise.cs" t="Include" />
+              <e p="Starter.cs" t="Include" />
+            </e>
+            <e p="Output" t="Include">
+              <e p="ActiveStatusOut.cs" t="Include" />
+              <e p="AnimatorOut.cs" t="Include" />
+              <e p="ColorOut.cs" t="Include" />
+              <e p="EventOut.cs" t="Include" />
+              <e p="FloatOut.cs" t="Include" />
+              <e p="MaterialColorOut.cs" t="Include" />
+              <e p="MaterialFloatOut.cs" t="Include" />
+              <e p="MaterialVectorOut.cs" t="Include" />
+              <e p="ParticleSystemOut.cs" t="Include" />
+              <e p="RotationOut.cs" t="Include" />
+              <e p="SystemPropertyOut.cs" t="Include" />
+              <e p="TransformOut.cs" t="Include" />
+              <e p="VectorOut.cs" t="Include" />
+            </e>
+            <e p="System" t="Include">
+              <e p="NodeBase.cs" t="Include" />
+              <e p="Patch.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="MidiJack" t="Include">
+          <e p="Editor" t="Include">
+            <e p="MidiJackWindow.cs" t="Include" />
+          </e>
+          <e p="Midi.cs" t="Include" />
+          <e p="MidiDriver.cs" t="Include" />
+          <e p="MidiMaster.cs" t="Include" />
+          <e p="MidiStateUpdater.cs" t="Include" />
+        </e>
+        <e p="Samples" t="Include">
+          <e p="SampleAssets" t="Include">
+            <e p="Gasta" t="Include">
+              <e p="Acknowledgement.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BangSwapCam.cs" t="Include" />
+        </e>
+        <e p="Test" t="Include">
+          <e p="Spawner.cs" t="Include" />
+          <e p="TestCards" t="Include">
+            <e p="Editor" t="Include">
+              <e p="TestOverlayEditor.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="TestOverlay.shader" t="Include" />
+            </e>
+            <e p="TestOverlay.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="MidiKlak-master.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_MidiKlak-master.-221992500.00" t="ExcludeRecursive" />
+  </component>
+</project>
